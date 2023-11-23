@@ -5,7 +5,7 @@ Car Services Center allows your to build new Car centers with some functions in 
 
 # Class Diagram 
 
-![Car Services Center Class Diagram](https://github.com/MemZhr/CarServicesCenter/assets/72718294/18e335ff-6129-4c7b-9e0f-6bd8279b8d4d)
+![CarCenterClassDiagaram](https://github.com/MemZhr/CarCenterBE/assets/72718294/60cfde5b-3cd4-4065-b0cf-6d8715dd92c5)
 
 
 ##  Setup
