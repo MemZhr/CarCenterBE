@@ -16,7 +16,7 @@ Car Services Center allows your to build new Car centers with some functions in 
 
 1. **Clone the repo**
    ```sh
-   https://github.com/MemZhr/CarServicesCenter.git
+   https://github.com/MemZhr/CarCenterBE.git
    ```
 2. **Navigate to CenterApplicaton and run the program**
 3. **Use Postman for one of the routes mentioned in Controllers Section**
